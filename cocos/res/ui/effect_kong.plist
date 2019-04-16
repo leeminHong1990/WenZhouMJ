@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>effect_kong1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{504,0},{496,333}}</string>
+				<key>offset</key>
+				<string>{-1,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,950},{286,223}}</string>
+				<key>offset</key>
+				<string>{-27,9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{817,667},{267,205}}</string>
+				<key>offset</key>
+				<string>{-25,9}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{706,1255},{267,205}}</string>
+				<key>offset</key>
+				<string>{-25,9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1396},{267,211}}</string>
+				<key>offset</key>
+				<string>{-25,12}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1173},{267,223}}</string>
+				<key>offset</key>
+				<string>{-25,14}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{286,1163},{267,235}}</string>
+				<key>offset</key>
+				<string>{-25,13}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{504,341}}</string>
+				<key>offset</key>
+				<string>{0,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{504,333},{494,334}}</string>
+				<key>offset</key>
+				<string>{-1,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,341},{470,317}}</string>
+				<key>offset</key>
+				<string>{0,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,658},{432,292}}</string>
+				<key>offset</key>
+				<string>{0,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{432,667},{385,255}}</string>
+				<key>offset</key>
+				<string>{-2,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{742,934},{321,211}}</string>
+				<key>offset</key>
+				<string>{-2,3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{553,1163},{231,153}}</string>
+				<key>offset</key>
+				<string>{-2,3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+			<key>effect_kong9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{432,922},{310,241}}</string>
+				<key>offset</key>
+				<string>{-27,9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{519,355}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>effect_kong.png</string>
+			<key>realTextureFileName</key>
+			<string>effect_kong.png</string>
+			<key>size</key>
+			<string>{1024,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

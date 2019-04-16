@@ -1,0 +1,1141 @@
+{
+  "ID": "6b540714-0607-4f78-a6a9-863bddf3037f",
+  "Version": "3.10.0.0",
+  "Name": "CommunicateUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 2,
+            "ActionTag": -1192582095,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "BackGround/small_win.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 173,
+            "Scale9OriginY": 122,
+            "Scale9Width": 420,
+            "Scale9Height": 254,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5984,
+              "Y": 0.6917
+            },
+            "LeftMargin": 257.0,
+            "RightMargin": 257.0,
+            "TopMargin": 111.0,
+            "BottomMargin": 111.0,
+            "Tag": 20,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "BackGround/config_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 173,
+                "Scale9OriginY": 122,
+                "Scale9Width": 213,
+                "Scale9Height": 62,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 404.3714,
+                  "Y": 202.4868
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5279,
+                  "Y": 0.4066
+                },
+                "PreSize": {
+                  "X": 0.7833,
+                  "Y": 0.7631
+                },
+                "LeftMargin": 104.3714,
+                "RightMargin": 61.6286,
+                "TopMargin": 105.5132,
+                "BottomMargin": 12.4868,
+                "Tag": 553,
+                "ActionTag": 1132443307,
+                "Size": {
+                  "X": 600.0,
+                  "Y": 380.0
+                },
+                "Name": "bg_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "CommunicateUI/title.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 64,
+                "Scale9OriginY": 13,
+                "Scale9Width": 68,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 392.1877,
+                  "Y": 449.9457
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.512,
+                  "Y": 0.9035
+                },
+                "PreSize": {
+                  "X": 0.2559,
+                  "Y": 0.0803
+                },
+                "LeftMargin": 294.1877,
+                "RightMargin": 275.8123,
+                "TopMargin": 28.0543,
+                "BottomMargin": 429.9457,
+                "Tag": 1474,
+                "ActionTag": -1439325740,
+                "Size": {
+                  "X": 196.0,
+                  "Y": 40.0
+                },
+                "Name": "title_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 520,
+                  "Height": 290
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 139.9956,
+                  "Y": 44.7155
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1828,
+                  "Y": 0.0898
+                },
+                "PreSize": {
+                  "X": 0.6789,
+                  "Y": 0.5823
+                },
+                "LeftMargin": 139.9956,
+                "RightMargin": 106.0044,
+                "TopMargin": 163.2845,
+                "BottomMargin": 44.7155,
+                "Tag": 21,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.2483
+                    },
+                    "TopMargin": 218.0,
+                    "Tag": 26,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 46,
+                        "Scale9Height": 46,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 52.0,
+                          "Y": 36.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.1,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0885,
+                          "Y": 0.6389
+                        },
+                        "LeftMargin": 29.0,
+                        "RightMargin": 445.0,
+                        "TopMargin": 13.0,
+                        "BottomMargin": 13.0,
+                        "Tag": 29,
+                        "ActionTag": -190891066,
+                        "Size": {
+                          "X": 46.0,
+                          "Y": 46.0
+                        },
+                        "Name": "emot_img0",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 46,
+                        "Scale9Height": 46,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 156.0,
+                          "Y": 36.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.3,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0885,
+                          "Y": 0.6389
+                        },
+                        "LeftMargin": 133.0,
+                        "RightMargin": 341.0,
+                        "TopMargin": 13.0,
+                        "BottomMargin": 13.0,
+                        "Tag": 31,
+                        "ActionTag": -560424043,
+                        "Size": {
+                          "X": 46.0,
+                          "Y": 46.0
+                        },
+                        "Name": "emot_img1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 46,
+                        "Scale9Height": 46,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 260.0,
+                          "Y": 36.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0885,
+                          "Y": 0.6389
+                        },
+                        "LeftMargin": 237.0,
+                        "RightMargin": 237.0,
+                        "TopMargin": 13.0,
+                        "BottomMargin": 13.0,
+                        "Tag": 32,
+                        "ActionTag": -1176826188,
+                        "Size": {
+                          "X": 46.0,
+                          "Y": 46.0
+                        },
+                        "Name": "emot_img2",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 46,
+                        "Scale9Height": 46,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 364.0,
+                          "Y": 36.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.7,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0885,
+                          "Y": 0.6389
+                        },
+                        "LeftMargin": 341.0,
+                        "RightMargin": 133.0,
+                        "TopMargin": 13.0,
+                        "BottomMargin": 13.0,
+                        "Tag": 33,
+                        "ActionTag": -1080597704,
+                        "Size": {
+                          "X": 46.0,
+                          "Y": 46.0
+                        },
+                        "Name": "emot_img3",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 46,
+                        "Scale9Height": 46,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 468.0,
+                          "Y": 36.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.9,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0885,
+                          "Y": 0.6389
+                        },
+                        "LeftMargin": 445.0,
+                        "RightMargin": 29.0,
+                        "TopMargin": 13.0,
+                        "BottomMargin": 13.0,
+                        "Tag": 30,
+                        "ActionTag": -1224757971,
+                        "Size": {
+                          "X": 46.0,
+                          "Y": 46.0
+                        },
+                        "Name": "emot_img4",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1293132183,
+                    "Size": {
+                      "X": 520.0,
+                      "Y": 72.0
+                    },
+                    "Name": "item_panel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1462463411,
+                "Size": {
+                  "X": 520.0,
+                  "Y": 290.0
+                },
+                "Name": "emot_scroll",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 520,
+                  "Height": 290
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 139.9956,
+                  "Y": 44.7155
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1828,
+                  "Y": 0.0898
+                },
+                "PreSize": {
+                  "X": 0.6789,
+                  "Y": 0.5823
+                },
+                "LeftMargin": 139.9956,
+                "RightMargin": 106.0044,
+                "TopMargin": 163.2845,
+                "BottomMargin": 44.7155,
+                "Tag": 22,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.2069
+                    },
+                    "TopMargin": 230.0,
+                    "Tag": 34,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "BackGround/public_flat_bg.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 11,
+                        "Scale9OriginY": 13,
+                        "Scale9Width": 172,
+                        "Scale9Height": 114,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 260.0,
+                          "Y": 30.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.12,
+                          "Y": 1.3
+                        },
+                        "LeftMargin": -31.2,
+                        "RightMargin": -31.2,
+                        "TopMargin": -9.0,
+                        "BottomMargin": -9.0,
+                        "Tag": 35,
+                        "ActionTag": -430872457,
+                        "Size": {
+                          "X": 582.4,
+                          "Y": 78.0
+                        },
+                        "Name": "bg_img",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 25,
+                        "LabelText": "1.啊啊啊啊啊啊啊啊啊啊啊啊啊",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 20.8,
+                          "Y": 30.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 49,
+                          "G": 48,
+                          "B": 48
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.04,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.9615,
+                          "Y": 0.6667
+                        },
+                        "LeftMargin": 20.8,
+                        "RightMargin": -0.8,
+                        "TopMargin": 10.0,
+                        "BottomMargin": 10.0,
+                        "Tag": 36,
+                        "ActionTag": 2110014739,
+                        "Size": {
+                          "X": 500.0,
+                          "Y": 40.0
+                        },
+                        "Name": "content_label",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1084481329,
+                    "Size": {
+                      "X": 520.0,
+                      "Y": 60.0
+                    },
+                    "Name": "item_panel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 175660532,
+                "Size": {
+                  "X": 520.0,
+                  "Y": 290.0
+                },
+                "Name": "voice_scroll",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "CommunicateUI/emot_btn2.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "CommunicateUI/emot_btn2.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "CommunicateUI/emot_btn1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 124,
+                "Scale9Height": 42,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 342.9999,
+                  "Y": 376.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4478,
+                  "Y": 0.757
+                },
+                "PreSize": {
+                  "X": 0.201,
+                  "Y": 0.1285
+                },
+                "LeftMargin": 265.9999,
+                "RightMargin": 346.0001,
+                "TopMargin": 89.0005,
+                "BottomMargin": 344.9995,
+                "Tag": 23,
+                "ActionTag": -1654848058,
+                "Size": {
+                  "X": 154.0,
+                  "Y": 64.0
+                },
+                "Name": "emot_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "CommunicateUI/voice_btn2.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "CommunicateUI/voice_btn2.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "CommunicateUI/voice_btn1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 124,
+                "Scale9Height": 42,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 200.9995,
+                  "Y": 376.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2624,
+                  "Y": 0.757
+                },
+                "PreSize": {
+                  "X": 0.201,
+                  "Y": 0.1285
+                },
+                "LeftMargin": 123.9995,
+                "RightMargin": 488.0005,
+                "TopMargin": 89.0005,
+                "BottomMargin": 344.9995,
+                "Tag": 24,
+                "ActionTag": 421974273,
+                "Size": {
+                  "X": 154.0,
+                  "Y": 64.0
+                },
+                "Name": "voice_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Default/return_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 52,
+                "Scale9Height": 52,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 702.7284,
+                  "Y": 452.4175
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.9174,
+                  "Y": 0.9085
+                },
+                "PreSize": {
+                  "X": 0.107,
+                  "Y": 0.1486
+                },
+                "LeftMargin": 661.7284,
+                "RightMargin": 22.2716,
+                "TopMargin": 8.5825,
+                "BottomMargin": 415.4175,
+                "Tag": 25,
+                "ActionTag": 73325947,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 74.0
+                },
+                "Name": "return_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "CommunicateUI/record_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 54,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 596.5637,
+                  "Y": 54.7281
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7788,
+                  "Y": 0.1099
+                },
+                "PreSize": {
+                  "X": 0.1097,
+                  "Y": 0.1727
+                },
+                "LeftMargin": 554.5637,
+                "RightMargin": 127.4363,
+                "TopMargin": 400.2719,
+                "BottomMargin": 11.7281,
+                "Tag": 1595,
+                "ActionTag": -18055108,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 86.0
+                },
+                "VisibleForFrame": false,
+                "Name": "record_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "按住 说话 -->",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 461.98,
+                  "Y": 53.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 7,
+                  "G": 7,
+                  "B": 7
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6031,
+                  "Y": 0.1064
+                },
+                "PreSize": {
+                  "X": 0.2611,
+                  "Y": 0.0783
+                },
+                "LeftMargin": 361.98,
+                "RightMargin": 204.02,
+                "TopMargin": 425.5,
+                "BottomMargin": 33.5,
+                "Tag": 442,
+                "ActionTag": -1985963673,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 39.0
+                },
+                "VisibleForFrame": false,
+                "Name": "press_say_label",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -443965849,
+            "Size": {
+              "X": 766.0,
+              "Y": 498.0
+            },
+            "Name": "communicate_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "BackGround/config_bg.png",
+        "BackGround/public_flat_bg.png",
+        "BackGround/small_win.png",
+        "CommunicateUI/emot_btn1.png",
+        "CommunicateUI/emot_btn2.png",
+        "CommunicateUI/record_btn.png",
+        "CommunicateUI/title.png",
+        "CommunicateUI/voice_btn1.png",
+        "CommunicateUI/voice_btn2.png",
+        "Default/ImageFile.png",
+        "Default/return_btn.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

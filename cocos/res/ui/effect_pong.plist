@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>effect_pong1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{892,168},{163,81}}</string>
+				<key>offset</key>
+				<string>{-7,-9}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,229},{185,196}}</string>
+				<key>offset</key>
+				<string>{-1,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{462,389},{186,198}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{674,381},{187,201}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{686,191},{188,202}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{686,1},{188,204}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{478,1},{190,206}}</string>
+				<key>offset</key>
+				<string>{-1,2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{892,1},{165,99}}</string>
+				<key>offset</key>
+				<string>{-8,-7}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{890,333},{166,132}}</string>
+				<key>offset</key>
+				<string>{-8,-6}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,392},{189,178}}</string>
+				<key>offset</key>
+				<string>{-7,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{263,226}}</string>
+				<key>offset</key>
+				<string>{3,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{478,193},{194,194}}</string>
+				<key>offset</key>
+				<string>{-1,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{266,198},{192,194}}</string>
+				<key>offset</key>
+				<string>{0,-4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{662,570},{189,194}}</string>
+				<key>offset</key>
+				<string>{-1,-4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+			<key>effect_pong9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{266,1},{210,195}}</string>
+				<key>offset</key>
+				<string>{4,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,282}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>effect_pong.png</string>
+			<key>realTextureFileName</key>
+			<string>effect_pong.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,76 @@
+<root>
+	<Volatile>
+		<position> 0 </position>
+		<yaw> 0 </yaw>
+		<pitch> 0 </pitch>
+		<roll> 0 </roll>
+	</Volatile>
+
+	<Implements>
+		<Interface>	GameObject		</Interface>
+	</Implements>
+
+	<Properties>
+		<roomId>
+			<Type>			UINT32			</Type>
+			<Flags>			BASE			</Flags>
+		</roomId>
+		<owner_uid>
+			<Type>			UINT32			</Type>
+			<Flags>			BASE			</Flags>
+		</owner_uid>
+		<game_round>
+			<Type>			INT32			</Type>
+			<Flags>			BASE			</Flags>
+			<Default>		8				</Default>
+		</game_round>
+		<player_num>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+			<Default>		4				</Default>
+		</player_num>
+		<follow_state>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+		</follow_state>
+		<kong_state>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+		</kong_state>
+		<kong_draw_win_double>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+		</kong_draw_win_double>
+		<dragon_state>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+		</dragon_state>
+		<contract_state>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+		</contract_state>
+		<max_bet_num>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+			<Default>		0				</Default>
+		</max_bet_num>
+		<is_agent>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE			</Flags>
+		</is_agent>
+	</Properties>
+
+
+	<BaseMethods>
+		<swapTileToTop>
+			<Arg>		UINT32		</Arg>
+		</swapTileToTop>
+	</BaseMethods>
+
+	<CellMethods>
+	</CellMethods>
+
+	<ClientMethods>
+	</ClientMethods>
+</root>
+

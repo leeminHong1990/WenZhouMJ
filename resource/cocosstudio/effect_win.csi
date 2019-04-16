@@ -1,0 +1,30 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="effect_win" Type="Plist" ID="253825bf-abd4-44f9-8375-057efb3ca055" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="effect_win1.png" />
+      <FilePathData Path="effect_win10.png" />
+      <FilePathData Path="effect_win11.png" />
+      <FilePathData Path="effect_win12.png" />
+      <FilePathData Path="effect_win13.png" />
+      <FilePathData Path="effect_win14.png" />
+      <FilePathData Path="effect_win15.png" />
+      <FilePathData Path="effect_win16.png" />
+      <FilePathData Path="effect_win17.png" />
+      <FilePathData Path="effect_win18.png" />
+      <FilePathData Path="effect_win19.png" />
+      <FilePathData Path="effect_win2.png" />
+      <FilePathData Path="effect_win20.png" />
+      <FilePathData Path="effect_win21.png" />
+      <FilePathData Path="effect_win22.png" />
+      <FilePathData Path="effect_win3.png" />
+      <FilePathData Path="effect_win4.png" />
+      <FilePathData Path="effect_win5.png" />
+      <FilePathData Path="effect_win6.png" />
+      <FilePathData Path="effect_win7.png" />
+      <FilePathData Path="effect_win8.png" />
+      <FilePathData Path="effect_win9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,40 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="GameHallUI" Type="Plist" ID="671164e6-e740-4462-b532-41af2c3132a2" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="GameHallUI/gamehall_0.png" />
+      <FilePathData Path="GameHallUI/gamehall_1.png" />
+      <FilePathData Path="GameHallUI/gamehall_2.png" />
+      <FilePathData Path="GameHallUI/gamehall_3.png" />
+      <FilePathData Path="GameHallUI/gamehall_4.png" />
+      <FilePathData Path="GameHallUI/gamehall_5.png" />
+      <FilePathData Path="GameHallUI/gamehall_6.png" />
+      <FilePathData Path="GameHallUI/gamehall_7.png" />
+      <FilePathData Path="GameHallUI/gamehall_8.png" />
+      <FilePathData Path="GameHallUI/gamehall_9.png" />
+      <FilePathData Path="GameHallUI/gamehall_back.png" />
+      <FilePathData Path="GameHallUI/gamehall_buy_btn.png" />
+      <FilePathData Path="GameHallUI/gamehall_config_btn.png" />
+      <FilePathData Path="GameHallUI/gamehall_creategame.png" />
+      <FilePathData Path="GameHallUI/gamehall_feedback_btn.png" />
+      <FilePathData Path="GameHallUI/gamehall_joingame.png" />
+      <FilePathData Path="GameHallUI/gamehall_joinroom_hint.png" />
+      <FilePathData Path="GameHallUI/gamehall_joinroom_title.png" />
+      <FilePathData Path="GameHallUI/gamehall_return.png" />
+      <FilePathData Path="GameHallUI/gamehall_score_btn.png" />
+      <FilePathData Path="GameHallUI/gamehall_signin_btn.png" />
+      <FilePathData Path="GameHallUI/gamehall_underline.png" />
+      <FilePathData Path="GameHallUI/gamehall_boardcast_img.png" />
+      <FilePathData Path="GameHallUI/gamehall_info_bg.png" />
+      <FilePathData Path="GameHallUI/gamehall_notice.btn.png" />
+      <FilePathData Path="GameHallUI/gamehall_notice_bg.png" />
+      <FilePathData Path="GameHallUI/gamehall_notice_title.png" />
+      <FilePathData Path="GameHallUI/gamehall_signin_slider.png" />
+      <FilePathData Path="GameHallUI/gamehall_playerinfo_bg.png" />
+      <FilePathData Path="GameHallUI/gamehall_joingame_img.png" />
+      <FilePathData Path="GameHallUI/gamehall_creategame_img.png" />
+      <FilePathData Path="GameHallUI/gamehall_bottombar.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

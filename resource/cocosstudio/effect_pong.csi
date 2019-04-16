@@ -1,0 +1,23 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="effect_pong" Type="Plist" ID="46e5336a-520e-42f8-a45a-0cdb12b4c766" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="effect_pong1.png" />
+      <FilePathData Path="effect_pong10.png" />
+      <FilePathData Path="effect_pong11.png" />
+      <FilePathData Path="effect_pong12.png" />
+      <FilePathData Path="effect_pong13.png" />
+      <FilePathData Path="effect_pong14.png" />
+      <FilePathData Path="effect_pong15.png" />
+      <FilePathData Path="effect_pong2.png" />
+      <FilePathData Path="effect_pong3.png" />
+      <FilePathData Path="effect_pong4.png" />
+      <FilePathData Path="effect_pong5.png" />
+      <FilePathData Path="effect_pong6.png" />
+      <FilePathData Path="effect_pong7.png" />
+      <FilePathData Path="effect_pong8.png" />
+      <FilePathData Path="effect_pong9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

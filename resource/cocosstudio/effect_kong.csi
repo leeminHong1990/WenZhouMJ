@@ -1,0 +1,23 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="effect_kong" Type="Plist" ID="02cfa187-73c5-424e-9b61-52f74c015cd0" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="effect_kong1.png" />
+      <FilePathData Path="effect_kong10.png" />
+      <FilePathData Path="effect_kong11.png" />
+      <FilePathData Path="effect_kong12.png" />
+      <FilePathData Path="effect_kong13.png" />
+      <FilePathData Path="effect_kong14.png" />
+      <FilePathData Path="effect_kong15.png" />
+      <FilePathData Path="effect_kong2.png" />
+      <FilePathData Path="effect_kong3.png" />
+      <FilePathData Path="effect_kong4.png" />
+      <FilePathData Path="effect_kong5.png" />
+      <FilePathData Path="effect_kong6.png" />
+      <FilePathData Path="effect_kong7.png" />
+      <FilePathData Path="effect_kong8.png" />
+      <FilePathData Path="effect_kong9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

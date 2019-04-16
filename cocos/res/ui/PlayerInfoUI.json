@@ -1,0 +1,633 @@
+{
+  "ID": "b3ebf561-d95c-46b7-bcf5-b288f2f5c4cb",
+  "Version": "3.10.0.0",
+  "Name": "PlayerInfoUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 447,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 448,
+            "ActionTag": -183545652,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "BackGround/player_win.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 20,
+            "Scale9OriginY": 20,
+            "Scale9Width": 490,
+            "Scale9Height": 262,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.4141,
+              "Y": 0.4194
+            },
+            "LeftMargin": 375.0,
+            "RightMargin": 375.0,
+            "TopMargin": 209.0,
+            "BottomMargin": 209.0,
+            "Tag": 566,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerInfoUI/title.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 61,
+                "Scale9OriginY": 17,
+                "Scale9Width": 48,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 265.0,
+                  "Y": 241.8114
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8007
+                },
+                "PreSize": {
+                  "X": 0.3208,
+                  "Y": 0.1589
+                },
+                "LeftMargin": 180.0,
+                "RightMargin": 180.0,
+                "TopMargin": 36.1886,
+                "BottomMargin": 217.8114,
+                "Tag": 2290,
+                "ActionTag": 324548840,
+                "Size": {
+                  "X": 170.0,
+                  "Y": 48.0
+                },
+                "Name": "title_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Default/return_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 52,
+                "Scale9Height": 52,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 484.897,
+                  "Y": 265.005
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9149,
+                  "Y": 0.8775
+                },
+                "PreSize": {
+                  "X": 0.1547,
+                  "Y": 0.245
+                },
+                "LeftMargin": 443.897,
+                "RightMargin": 4.103,
+                "TopMargin": -0.005,
+                "BottomMargin": 228.005,
+                "Tag": 568,
+                "ActionTag": 533047699,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 74.0
+                },
+                "Name": "return_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "未知",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 345.0,
+                  "Y": 172.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6509,
+                  "Y": 0.5695
+                },
+                "PreSize": {
+                  "X": 0.3774,
+                  "Y": 0.0993
+                },
+                "LeftMargin": 245.0,
+                "RightMargin": 85.0,
+                "TopMargin": 115.0,
+                "BottomMargin": 157.0,
+                "Tag": 30,
+                "ActionTag": 1323001268,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 30.0
+                },
+                "Name": "name_label",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerInfoUI/id_title.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 6,
+                "Scale9Width": 134,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 70.0,
+                  "Y": 130.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1321,
+                  "Y": 0.4305
+                },
+                "PreSize": {
+                  "X": 0.2792,
+                  "Y": 0.1258
+                },
+                "LeftMargin": 70.0,
+                "RightMargin": 312.0,
+                "TopMargin": 153.0,
+                "BottomMargin": 111.0,
+                "Tag": 578,
+                "ActionTag": -1137061170,
+                "Size": {
+                  "X": 148.0,
+                  "Y": 38.0
+                },
+                "Name": "id_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ConfigUI/logout_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 236,
+                "Scale9Height": 70,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 265.0,
+                  "Y": 66.8628
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2214
+                },
+                "PreSize": {
+                  "X": 0.5019,
+                  "Y": 0.3046
+                },
+                "LeftMargin": 132.0,
+                "RightMargin": 132.0,
+                "TopMargin": 189.1372,
+                "BottomMargin": 20.8628,
+                "Tag": 2284,
+                "ActionTag": -561540075,
+                "Size": {
+                  "X": 266.0,
+                  "Y": 92.0
+                },
+                "VisibleForFrame": false,
+                "Name": "logout_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "未知",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 345.0,
+                  "Y": 130.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6509,
+                  "Y": 0.4305
+                },
+                "PreSize": {
+                  "X": 0.3774,
+                  "Y": 0.1093
+                },
+                "LeftMargin": 245.0,
+                "RightMargin": 85.0,
+                "TopMargin": 155.5,
+                "BottomMargin": 113.5,
+                "Tag": 2288,
+                "ActionTag": -767065125,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 33.0
+                },
+                "Name": "id_label",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerInfoUI/nickname_title.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 6,
+                "Scale9Width": 130,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 70.0,
+                  "Y": 175.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1321,
+                  "Y": 0.5795
+                },
+                "PreSize": {
+                  "X": 0.2717,
+                  "Y": 0.1093
+                },
+                "LeftMargin": 70.0,
+                "RightMargin": 316.0,
+                "TopMargin": 110.5,
+                "BottomMargin": 158.5,
+                "Tag": 2289,
+                "ActionTag": -819826825,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 33.0
+                },
+                "Name": "sex_img_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "192.168.199.199",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 345.0,
+                  "Y": 85.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6509,
+                  "Y": 0.2815
+                },
+                "PreSize": {
+                  "X": 0.566,
+                  "Y": 0.1093
+                },
+                "LeftMargin": 195.0,
+                "RightMargin": 35.0,
+                "TopMargin": 200.5,
+                "BottomMargin": 68.5,
+                "Tag": 131,
+                "ActionTag": 2114404583,
+                "Size": {
+                  "X": 300.0,
+                  "Y": 33.0
+                },
+                "Name": "ip_label",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerInfoUI/ip_title.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 38,
+                "Scale9OriginY": 10,
+                "Scale9Width": 42,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 70.0,
+                  "Y": 85.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1321,
+                  "Y": 0.2815
+                },
+                "PreSize": {
+                  "X": 0.2226,
+                  "Y": 0.1093
+                },
+                "LeftMargin": 70.0,
+                "RightMargin": 342.0,
+                "TopMargin": 200.5,
+                "BottomMargin": 68.5,
+                "Tag": 828,
+                "ActionTag": -1865230218,
+                "Size": {
+                  "X": 118.0,
+                  "Y": 33.0
+                },
+                "Name": "ip_img",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -340166259,
+            "Size": {
+              "X": 530.0,
+              "Y": 302.0
+            },
+            "Name": "playerinfo_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "BackGround/player_win.png",
+        "ConfigUI/logout_btn.png",
+        "Default/return_btn.png",
+        "PlayerInfoUI/id_title.png",
+        "PlayerInfoUI/ip_title.png",
+        "PlayerInfoUI/nickname_title.png",
+        "PlayerInfoUI/title.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

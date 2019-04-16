@@ -1,0 +1,41 @@
+<root>
+	<Implements>
+		<Interface>			GameObject		</Interface>
+		<Interface>			iWorldRoomManager		</Interface>
+	</Implements>
+
+	<Properties>
+		<userCount>
+			<Type>			UINT32		</Type>
+			<Flags>			BASE			</Flags>
+			<Persistent>	true			</Persistent>
+		</userCount>
+
+		<serverStartTime>
+			<Type>			DOUBLE		</Type>
+			<Flags>			BASE			</Flags>
+			<Persistent>	true			</Persistent>
+		</serverStartTime>
+	</Properties>
+
+	<BaseMethods>
+		<loginToSpace>
+			<Arg>		MAILBOX		</Arg>
+		</loginToSpace>
+
+		<logoutSpace>
+			<Arg>		ENTITY_ID	</Arg>
+		</logoutSpace>
+
+		<canLogin>
+			<Arg>		MAILBOX 			</Arg>
+			<Arg>		UNICODE 			</Arg>
+		</canLogin>
+
+		<addOneUser>
+			<Arg>		MAILBOX			</Arg>
+			<Arg>		UINT32 			</Arg>
+		</addOneUser>
+	</BaseMethods>
+</root>
+
